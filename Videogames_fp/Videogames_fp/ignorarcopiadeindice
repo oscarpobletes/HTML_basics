@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<Head>
+	<title>Trabajo final
+		</title>
+		<meta charset="utf-8"> 
+</Head>
+		<body>
+	<body background="Imagenes/spaceinvaders.jpeg"></body>
+	<h1 align="center">
+		<font color="white"> Trabajo final </font></h1>
+	<center><img src="Imagenes/uanahuac.png" width="150" height="150"></center>
+	<p align="center">
+		<font color="white"> Universidad Anáhuac
+		<br>Introducción a la computación
+		<br> Dra. Maria del Carmen Villar Patiño
+		<br> Equipo 6 integrado por:
+		<br> <!-- espacio extra -->
+		<br>-Juan Pablo Nuñez ID:00426528
+        <br>-Carlos Daniel Fuentes ID:00430367 
+	    <br>-Diego Muñoz Sánchez ID:00433496
+	    <br>-Óscar Poblete Sáenz ID:00426099
+	</font>
+	</p>
+<br>
+<h1 align="left"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Índice</font></h1>
+	<ul type="square" style="color:white"><font color="white"></font>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/home/alumnos/a00426099/public_html/intComp/Trabajofinal/clafvi" style="color:white">Clasificación de los videojuegos</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="" style="color:white">Lo bueno de los videojuegos</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="" style="color:white">Lo malo de los videojuegos</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="" style="color:white">Contribuciones de los videojuegos a las TIC</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="" style="color:white">Estadísticos sobre el comportamiento de ventas de consolas de videojuegos </a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="" style="color:white">Conclusiones</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="" style="color:white">Referencias APA</a></li>
+	
+	</ul> </font>
+	
+		</body>
+		</html>

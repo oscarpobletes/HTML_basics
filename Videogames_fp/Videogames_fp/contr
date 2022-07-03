@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<Head>
+	<title>Contribuciones de los videojuegos a las TIC
+		</title>
+		<meta charset="utf-8"> 
+</Head>
+<body bgcolor="black">
+<h1 align="center"><font color="00f00">Contribuciones de los videojuegos a las TIC</font></h1>
+<p align="center"><font color="00f00">
+Los videojuegos y las Tecnologías de la información y la comunicación (TIC) siempre han ido de la mano, y aunque existan ciertas <a href="/home/alumnos/a00426099/public_html/intComp/Trabajofinal/ventydesv" style="color:green">ventajas y desventajas</a> en el uso recreativo de los mismos, no podemos librarnos del hecho de que sus contribuciones al mundo de la tecnología han sido totalmente indispensables para lograr lo que hoy en día se puede hacer con ella.
+
+</font></p>
+<center><img src="Imagenes/pac.png" width="300" height="300"></center>
+<br>
+
+<p align="Justify"><font color="00f00">
+Los videojuegos han tenido impacto en muchos sectores y han demostrado ir mucho más allá del ocio; de hecho, la propia industria de la tecnología ha avanzado gracias al impulso que le han brindado los videojuegos. Quizás se pueda pensar que la relación es al revés, que primero avanza la tecnología y después avanzan los videojuegos; sin embargo, en esta simbiosis tan especial, a lo largo de los años hemos podido ver dispositivos y tecnologías que hoy en día son de uso general y que a su vez han tenido su origen en el mundo de los videojuegos y el ocio electrónico.
+<br><br> A continucación veremos 5 maneras en que los videouegos han contribuido a las TIC.
+<br><br>
+<h2>1. Las primeras interfaces </h2>
+<p align="justify">Durante el desarrollo de los primeros computadores como la ENIAC, EDVAC, la Harvard Mark I o la Manchester Small-Scale Experimental Machine, a finales de los años 40 y los años 50, los videojuegos fueron claves para el desarrollo de interfaces que hicieran más sencilla la lectura de resultados, tras la ejecución de un programa o, por ejemplo, para poner a prueba los primeros algoritmos de inteligencia artificial.
+<br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/vCTRWD3DFsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>OXO, que es como se llamaba este juego, fue uno de los primeros videojuegos de la historia; un experimento realizado para el ESDAC que era capaz de ofrecer el juego del tres en raya en una computadora realizada con válvulas de vacío, y de enfrentarse a un humano siguiendo uno de los primeros algoritmos de inteligencia artificial que se implementaron en una computadora.
+</p>
+<br>
+<h2>2. Control por gestos</h2>
+<p align="justify">Aportaciones como la de Leap Motion nos transportan a una nueva generación de dispositivos que nos permiten controlar nuestro ordenador sin necesidad de usar un mouse: simplemente hacemos gestos en el aire. (Velasco. JJ, <a href="https://blogthinkbig.com/aportaciones-de-los-videojuegos-tecnologia" style="color:green">,2013)</a><br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/3b4w749Tud8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br> De igual manera, cada vez es más común ver proyectos de investigación y productos comerciales que tienen como objetivo acercarnos al control por gestos y hacernos mucho más cómodo el control de sistemas cotidianos; una tecnología en la que los videojuegos han tenido también una gran influencia. No tenemos que ir muy lejos puesto que tenemos grandes ejemplos en dispositivos como Kinect o el Wiimote (Control del Wii)<br><br>El siguiente video hecho por la exitosa compañia Microsoft (dedicada a ambos campos, tanto TIC como videojuegos) explica aún mejor todo lo anterior: <br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/oq98_35sQko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<br>
+<h2>3. Gráficos en 3D </h2>
+<p align="justify"> Si bien los primeros gráficos en 3D tienen su origen en los años 60 y se utilizaron en simulaciones, los videojuegos han tenido una gran influencia también en esta tecnología<br><br> Juegos pioneros en el uso de gráficos 3D fueron Tailgunner (1979), Battlezone (1980), Indianapolis 500 (1989), Hard Drivin’ (1989) o Alpha Waves (1990) pero, quizás, uno de los más significativos fue I, Robot de Atari (1983), que fue el primer título de la historia en usar gráficos con polígonos tridimensionales.<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/gmvWxG2zvs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2>4. Realidad virtual</h2>
+<p align="justify">Cuando hablamos de realidad virtual… ¿que entendemos? Según la definición regularizada, podemos tomarla como <q>Representación de escenas o imágenes de objetos producida por un sistema informático, que da la sensación de su existencia real.</q>(RAE,<a href="https://dle.rae.es/realidad" style="color:green">Realidad Virtual</a>,2020)<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/n6X2yzwF9Zo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br> La aparición de la realidad virtual e nuestras vidas, supone uno de los cambios tecnológicos más importantes de los últimos tiempos. Aunque aún no seamos demasiado conscientes de su importancia, por la falta de medios para probarlo y también por la escasez actual de aplicaciones desarrolladas (las cuales son cada vez más numerosas y más complejas), la realidad virtual y su adaptación a nivel usuario supondrá un antes y un después en la forma en la que consumimos contenidos multimedia: videojuegos, cine, eventos deportivos, conciertos, documentales, etc. (MV, <a href="http://mundo-virtual.com/que-es-la-realidad-virtual/" style="color:green">Definición de Realidad Virtual</a>,2020)</p>
+<h2>5. Inteligencia Artificial, Machine learning y Deep Learning</h2>
+<p align="justify">Además de llevar los gráficos 3D al gran público e, incluso, introducirlos en el mundo de la realidad virtual; los videojuegos también han servido como el tractor que ha posibilitado el desarrollo de hardware cada vez más potente. <br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/Dy0hJWltsyE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>El nombre de NVIDIA siempre estará ligado con la industria de los videojuegos y los gráficos. Fueron los responsables de una auténtica revolución: las primeras GPUs o más conocidas como tarjetas gráficas. Sin embargo y recientemente no son pocos los que se siguen sorprendiendo cuando el CEO de NVIDIA, Jen-Hsun Huang, aparece en conferencias proclamando que buena parte de los ingresos de la compañía proceden ya de otras fuentes. <br><br>Dichas fuentes son las siguientes:<br><br><img src="Imagenes/nvidqr.png" width="400" height="200">
+<br><br>El hecho es que NVIDIA no se acaba de subir a esta nueva revolución como un principiante con el mero intéres de diversificar ingresos. NVIDIA es el motor de todos estas tecnologías desde hace unos cuantos años. Y como muchos analistas afirman: esto solamente acaba de comenzar.<br><br> Cerca del 2012, Google Brain impulsada por Andrew Ng conseguía los primeros hitos en Deep Learning: capaces de reconocer un gato entre los más de 10 millones de vídeos de Youtube, pero con el inconveniente de necesitar prácticamente un data center con más de 2.000 CPUs. Más adelante Bryan Catanzaro, un investigador de NVIDIA Research, conseguía un experimento similar sustituyendo esas 2.000 CPUs por tan sólo 12 GPUs de NVIDIA. <br><br><img src="Imagenes/nvidceo.jpg" width="400" height="300"><br><br>
+Actualmente empresas como Google, Facebook, Microsoft o Amazon basan su infraestructura en las GPUs desarrolladas por NVIDIA. Y se calcula que con el boom de la Inteligencia Artificial existen en torno a 3.000 startups por todo el mundo trabajando sobre la plataforma de NVIDIA.<br><br>Las GPUs de NVIDIA han posibilitado el trabajo en paralelo reduciendo los procesos de entrenamiento de modelos en Machine Learning de semana a días. Pero la aceleración de este proceso supera las previsiones de la famosa ley de Moore, ya que estas mismas redes neuronales han alcanzado un 50x de rendimiento comparado en tan sólo los últimos seis años. <br>(Xataka, <a href="https://www.xataka.com/robotica-e-ia/nvidia-de-la-industria-de-los-videojuegos-a-referente-del-deep-learning" style="color:green">NVIDIA, de la industria de los videojuegos a referente del Deep Learning</a>,2017)
+<br><br><a href="indicetf" style="color:white">Regresar al índice</a> 
+</p>
+</font></p>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>

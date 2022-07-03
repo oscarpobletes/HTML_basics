@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<Head>
+	<title>Clasificación de los videojuegos
+		</title>
+		<meta charset="utf-8"> 
+</Head>
+<body>
+<body bgcolor="black"></body>
+<font color="00f00"> 
+<h1 align="center">Clasificación de los videojuegos</h1>
+<p align="center">Un videojuego es una aplicación interactiva orientada al entretenimiento que, a través de ciertos mandos o controles, permite simular experiencias en la pantalla de un televisor, una computadora u otro dispositivo electrónico. </p>
+<center><img src="Imagenes/controller.png" width="200" height="150"> </center>
+<br>
+<h2>Clasificación de los videojuegos</h2>
+<p><font color="green">(Algunos)</font></p>
+<ul class="navigation" type="square"></ul>
+<li><a href="#Plataformas" style="color:green">Plataformas</a></li>
+<li><a href="#Disparos" style="color:green">Disparos</a></li>
+<li><a href="#Aventuras" style="color:green">Aventuras</a></li>
+<li><a href="#Rol" style="color:green">Rol</a></li>
+<li><a href="#Deportes" style="color:green">Deportes</a></li>
+
+<br><h2>Categorías de clasificación ESRB</h2>
+<li><a href="#Todos" style="color:green">Todos</a></li>
+<li><a href="#Todos+10" style="color:green">Todos +10</a></li>
+<li><a href="#Adolescentes" style="color:green">Adolescentes</a></li>
+<li><a href="#Maduros +17" style="color:green">Maduros +17</a></li>
+<li><a href="#Adultos" style="color:green">Adultos +18</a></li>
+<li><a href="#Pendiente" style="color:green">Pendiente</a></li>
+
+<br><br>
+
+<a name="Plataformas"></a>
+<h3>Plataformas</h3>
+<p style="text-align:justify;">
+<img src="Imagenes/spmb.jpeg" width="200" height="200">
+	<br>Se trata de una experiencia que gira en torno a desafíos de tipo físico, que exigen un gran nivel de precisión por parte de los jugadores para avanzar a través de complejas estructuras, generalmente enfrentándose a diversos enemigos. El juego de plataformas por excelencia es Super Mario Bros. Desarrollado y publicado por Nintendo en el año 1985; su diseño, su dirección y su producción estuvieron a cargo de Shigeru Miyamoto, una eminencia en el mundo de los videojuegos.
+ <br><br>
+ 
+ <a name="Disparos"></a>
+ <h3>Disparos</h3>
+ <p style="text-align:justify;">
+	<img src="Imagenes/duckhunt.png" width="200" height="200">
+<br>Un género amplio, al cual pertenecen tanto algunos títulos de guerra como de naves espaciales. Su nombre en inglés es shooters y, si bien hace alusión a la acción de disparar, no debe tratarse necesariamente de un arma de fuego, ya que cualquier juego que centre el progreso del personaje principal en la utilización de algún poder que sea despedido hacia los enemigos, ya sea en forma de proyectil o de rayo (entre otras muchas posibilidades)
+<br><br>
+
+<a name="Aventuras"></a>
+ <h3>Aventuras</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/zelda.jpeg" width="200" height="200">
+	 <br> Son juegos en los cuales la historia es la protagonista. Deben ser construidos en base a una rica narrativa, que atrape poco a poco al jugador en el mundo virtual, y le transmita la necesidad de resolver una serie de misterios. Por lo general, contienen una gran variedad de elementos que resultan fundamentales para avanzar, y estos suelen encontrarse en el escenario mismo, lo cual invita a la exploración constante.
+<br><br>
+	 
+<a name="Rol"></a>
+ <h3>Rol</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/warcraft.jpeg" width="200" height="200">
+	 <br>Suelen confundirse con los juegos de aventuras pero, a diferencia de estos últimos, su foco son los personajes y su evolución a lo largo de la historia. Este género es especialmente popular en Japón, aunque existen muchas comunidades de jugadores de rol en todas partes del mundo. Una de sus características principales es la utilización del término nivel para referirse al grado de experiencia de sus protagonistas y no a los diferentes mundos y escenarios que deben atravesar.
+	 <br><br>
+	 
+	  	 
+	 <a name="Deportes"></a>
+ <h3>Deportes</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/fifa.jpeg" width="200" height="200">
+	 <br>Si bien su nombre parece decirlo todo, existe una línea muy delgada entre este género y el de simulación. Estos dos, a su vez, están emparentados con el género de acción; todo depende del grado de realismo de la experiencia y del tipo de interacción que se espere del jugador, entre otros factores. Un juego de deportes refleja fielmente las reglas de la disciplina original, pero no a niveles milimétricos, sino que se vale de ciertas licencias, como ser que el tiempo avance más rápidamente que en la realidad.
+	 <br> <br>(Juarez. G y Adriana, <a href="https://anahuac.primo.exlibrisgroup.com/permalink/52ANAHUAC_INST/12ghpp2/alma993755597205016" style="color:green">Los videojuegos</a>, 2007)
+	 <br><br>
+	 
+	 
+	 <a name="Todos"></a>
+ <h3>Todos</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/esrbt.svg" width="200" height="200">
+	 <br>El contenido por lo general es apto para todas las edades. Puede que contenga una cantidad mínima de violencia de caricatura, de fantasía o ligera, o uso poco frecuente de lenguaje moderado.
+	 <br><br>
+	 
+	 <a name="Todos+10"></a>
+ <h3>Todos +10</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/esrbt10.svg" width="200" height="200">
+	 <br>El contenido por lo general es apto para personas de 10 años o más. Puede que contenga más violencia de caricatura, de fantasía o ligera, lenguaje moderado o temas mínimamente provocativos.
+	 <br><br>
+	 
+	 <a name="Adolescentes"></a>
+ <h3>Adolecentes</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/esrbad.svg" width="200" height="200">
+	 <br>El contenido por lo general es apto para personas de 13 años o más. Puede que contenga violencia, temas insinuantes, humor grosero, mínima cntidad de sangre, apuestas simuladas o uso poco frecuente de lenguaje fuerte.
+	 <br><br>
+	 
+	 
+	  <a name="Maduros +17"></a>
+ <h3>Maduros +17</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/esrbmad.svg" width="200" height="200">
+	 <br>El contenido por lo general es apto para personas de 17 años o más. Puede que contenga violencia intensa, derramamiento de sangre, contenido sexual o lenguaje fuerte.
+	 <br><br>
+	 
+	 
+	 <a name="Adultos"></a>
+ <h3>Adultos +18</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/esrbadu.svg" width="200" height="200">
+	 <br>El contenido es apto sólo para adultos de 18 o más años. Puede que incluya escenas prolongadas de violencia intensa, contenido sexual gráfico o apuestas con moneda real.
+	 <br><br>
+	 
+	<a name="Pendiente"></a>
+ <h3>Pendiente</h3>
+ <p style="text-align:justify;">
+	 <img src="Imagenes/esrbpending.svg" width="200" height="200">
+	 <br>No se ha asignado una calificación final de ESRB. Solo aparece en la publicidad, marketing y materiales promocionales relacionados con un juego físico (por ejemplo, el que viene cerrado en caja) que se espera que tenga una clasificación de ESRB y debe ser sustituida por una clasificación de juego una vez que se haya asignado.
+	 <br><br> (ESRB, <a href="https://www.esrb.org/ratings-guide/es/" style="color:green">Categorías de clasificación</a> 2020)
+	 <br><br><br>
+<a href="indicetf" style="color:white">Regresar al índice</a> 
+ 
+	 </p>
+</font>
+</body>
